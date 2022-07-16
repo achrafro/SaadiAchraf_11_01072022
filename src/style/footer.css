@@ -1,0 +1,33 @@
+.footer {
+display: flex;
+justify-content: center;
+align-content: center;
+flex-direction: column;
+margin-top: 50px;
+width: 100%;
+background: #000000;
+color: white;
+font-family: "Montserrat";
+font-style: normal;
+font-size: 24px;
+text-align: center;
+padding-left: auto; 
+padding-right: auto; 
+
+  }
+
+  .footer img {
+    width: 150px;
+    height: 150px;
+    align-self: center;
+  }
+
+  @media (max-width :700px){
+    .footer{
+
+      font-size: 1em ; 
+
+    }
+  
+  
+  }

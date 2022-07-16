@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap");
+@import url(./style/header.css);
+@import url(./style/footer.css);
+@import url(./style/banner.css);
+@import url(./style/home.css);
+@import url(./style/notfound.css);
+@import url(./style/slider.css);
+@import url(./style/logement.css);
+@import url(./style/dropdown.css);
+@import url(./style/about.css);
+.App {
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-family: "Montserrat";
+  font-style: normal;
+}
+
+
+ul {
+  list-style: none;
+}
+
