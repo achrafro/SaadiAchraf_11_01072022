@@ -3,3 +3,6 @@ Kasa vous recrute en tant que développeur Front-end en freelance pour développ
 
 ## Site sur Github pages : 
 https://achrafro.github.io/kasa/
+## commandes pour excuter le projet : 
+NPM START 
+ 
